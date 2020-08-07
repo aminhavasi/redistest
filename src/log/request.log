@@ -1,0 +1,2 @@
+::1 - - [06/Aug/2020:19:04:49 +0000] "GET / HTTP/1.1" 404 139 "-" "PostmanRuntime/7.26.2"
+::1 - - [06/Aug/2020:19:05:03 +0000] "GET /api/auth HTTP/1.1" 200 11 "-" "PostmanRuntime/7.26.2"
