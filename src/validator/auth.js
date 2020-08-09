@@ -8,6 +8,7 @@ const registerValidator = (user) => {
     return schema.validate(user);
 };
 
+//۱۱۱۱
 module.exports = {
     registerValidator,
 };
